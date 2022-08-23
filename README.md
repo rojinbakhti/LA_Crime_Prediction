@@ -1,6 +1,6 @@
 # LA_Crime_Prediction
 ![image](https://user-images.githubusercontent.com/59149638/184992096-70df0472-423b-478b-9070-6baef05df0e1.png)
-
+<sub> Figure Source: [Link] (https://digital.hbs.edu/platform-rctom/submission/machine-learning-at-predpol-risks-biases-and-opportunities-for-predictive-policing/)
 ## Project Description
 In this project, we aimed to simulate the crime prediction tool used by the police, Predpol, to assess any existing bias in this tool. The project consists of the following steps:
 1) We first implmeneted the epidemic type aftershock (ETAS) model that the PredPol patent is built on.
@@ -16,4 +16,4 @@ For the Census Analysis, we used the American Community Survey (ACS) 2019 5-year
 
 
 ## Results
-Check out the project proposal [here](https://link-url-here.org) and the presentation [here](https://link-url-here.org).
+Check out the project proposal [here](https://github.com/rojinbakhti/LA_Crime_Prediction/blob/main/Final%20Report.pdf) and the presentation [here](https://github.com/rojinbakhti/LA_Crime_Prediction/blob/main/Final%20Presentation.pdf).
